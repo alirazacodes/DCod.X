@@ -22,14 +22,14 @@ Analyze real-time online behavioral activities of staff members and students, id
 #### > Live facial expressions will be translated into text and will be displayed to the professor or the teachers. By evaluating the emotional state, there is an attempt to overcome the barrier between man and non-emotional machine.
 <div></div>
 
-## Language:
-#### > We used Python programming language for the development of application.
+## Language/Tools:
+#### > We used Python programming language as backend language, for frontend/GUI we used flask and trinket and conversion of visual images into text we used Matplotlib library.
 #### > We used Python due to its vast machine learning and deep learning libraries, as it will help us train our application on real-time data set models and deduce results accordingly.
-#### > Other major reason of selecting Python is due to its versatile nature, like we can make GUI based application or a website from it, we can also design and make different API’s with the help of python.
+#### > Other major reason of selecting Python is due to its versatile nature, like we can make GUI based application or a website from it, we can also design and make different API’s (like flask API that will be used in final development of the project) with the help of python.
 <div></div>
 
 ## Algorithm:
-#### > We used Stochastic Gradient Descent image recognition algorithm of python.
+#### > We used Stochastic Gradient Descent image recognition algorithm for the detection of images in this project/application.
 #### > The reason behind using this algorithm is that its mini batch stochastic gradients Descent and variants, thereof have become standard for large scale empirical risk minimization like the training of neural networks.
 #### > These methods are usually used with a constant batch size using a simple empirical inspection.
 #### > When using a constant batch size, stability and convergence is thus often enforced by means of a decreasing learning rate schedule.
@@ -48,4 +48,6 @@ Analyze real-time online behavioral activities of staff members and students, id
 <img src= "https://github.com/AliRaza954/DCod.X/blob/main/UI_UX_Interfaces/Complete_UI_UX%20(2).gif">
 <div></div>
 
-
+## BlockChain Element:
+#### > We introduced decetralized image recognition API in this application/prototype/project so that the machine will be trained but the data will be erased after the end of every session.
+#### > We created a complete login panel on which only registered member can have access to the application.
